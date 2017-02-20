@@ -2,7 +2,7 @@
 
 This repository keeps track of my awesome adventure trying to know a little more about deep learning (mainly with TensorFlow \o/ )
 
-## Okay, but what do we have here?
+## What do we have here?
 
 * In this README file, you'll find some links (and hopefully tips) with instructions of how to learn more about deep learning and TensorFlow
 
