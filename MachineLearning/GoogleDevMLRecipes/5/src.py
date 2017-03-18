@@ -25,8 +25,6 @@ class myKNN():
         return pred
 
 
-
-
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
@@ -53,4 +51,3 @@ my_pred = my_clf.predict(x_test)
 # accuracy
 print accuracy_score(y_test, neigh_pred)
 print accuracy_score(y_test, my_pred)
-
