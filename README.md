@@ -18,6 +18,14 @@ This repository keeps track of my awesome adventure trying to know a little more
 [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)  
 [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)  
 [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+
+### DL Youtube series
+
+[Siraj Raval (love you 4 ever)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+[Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)
+[Google Dev - Machine Learning Recipes by Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ### GO DEEP - learn deep learning in 1 or 2 months
 
