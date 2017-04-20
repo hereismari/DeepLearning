@@ -6,8 +6,6 @@ This repository keeps track of my awesome adventure trying to know a little more
 
 * In this README file, you'll find some links (and hopefully tips) with instructions of how to learn more about deep learning and TensorFlow
 
-* In the /study folder you'll find small activities and source code, with the instructions link in a README, that can be useful
-
 * Also, I plan to make some personal projects using TensorFlow, and maybe I'll put in this repository or create a new one for the projects (we'll see)
 
 
@@ -20,12 +18,15 @@ This repository keeps track of my awesome adventure trying to know a little more
 [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
+### DL with TensorFlow
+[CS 20SI: TensorFlow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)  
+
 ### DL Youtube series
 
-[Siraj Raval (love you 4 ever)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
-[Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)
-[Google Dev - Machine Learning Recipes by Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+[Siraj Raval (love you 4 ever)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)  
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)  
+[Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
+[Google Dev - Machine Learning Recipes by Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
 
 ### GO DEEP - learn deep learning in 1 or 2 months
 
