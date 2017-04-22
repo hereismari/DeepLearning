@@ -40,6 +40,8 @@ This repository keeps track of my awesome adventure trying to know a little more
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf): course that covers intro to deep learning, deep reinforcemente learning, convolutional neural networks and recurrent neural networks.  
 * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
-### Practical Activities
+### Advanced Topics
     
+* [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9)
+
 * [Jason Mayes - Rock Paper Scissors - Machine Learning Style using Tensor Flow](https://www.youtube.com/watch?v=mtRDNDqjUzM)
