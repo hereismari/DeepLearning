@@ -47,12 +47,13 @@ This repository keeps track of my awesome adventure trying to know a little more
 [Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
 [Google Dev - Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
 
-### GO DEEP - learn deep learning in 1 or 2 months
+### GO DEEP - learn more about deep learning in 1/2 months
 
 [How do I learn deep learning in 2 months](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months)  
 [Learn deep learning, from novice to advanced](https://www.commonlounge.com/discussion/81f5bbcfea4e44b9b2bd081d1ea536ac/main)  
 
+
 ### Advanced Topics
     
-[RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9)
+[RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9)  
 [Jason Mayes - Rock Paper Scissors - Machine Learning Style using Tensor Flow](https://www.youtube.com/watch?v=mtRDNDqjUzM)
