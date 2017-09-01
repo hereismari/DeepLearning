@@ -9,7 +9,7 @@ This repository keeps track of my awesome adventure trying to know a little more
 
 ## Personal Projects
 
-[Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)
+[Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)  
 [MNIST running on Android using TensorFlow](https://github.com/mari-linhares/mnist-android-tensorflow)
 
 ## Links
