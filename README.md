@@ -1,6 +1,7 @@
 # DeepLearning
 
-This repository keeps track of my awesome adventure trying to know a little more about deep learning (mainly with TensorFlow \o/ )
+This repository keeps track of my awesome adventure trying
+to know a little more about deep learning (mainly with TensorFlow :smile:).
 
 ## What do we have here?
 
@@ -21,14 +22,24 @@ This repository keeps track of my awesome adventure trying to know a little more
 [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8&t=2163s)
 [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
-#### CNNs
+### CNNs
 
 [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
 
-#### RNNs
+### RNNs
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
+
+### GANs
+
+[Introduction to GANs (Keras)](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)  
+[GANs for beginners (TensorFlow)](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)  
+[Blog about different kinds of GANs](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)  
+
+#### Code
+
+[DCGAN implementation on TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow)  
 
 ### Blogs
 
@@ -53,7 +64,7 @@ This repository keeps track of my awesome adventure trying to know a little more
 [Learn deep learning, from novice to advanced](https://www.commonlounge.com/discussion/81f5bbcfea4e44b9b2bd081d1ea536ac/main)  
 
 
-### Advanced Topics
-    
+### More Advanced Topics and Tutorials
+
 [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9)  
 [Jason Mayes - Rock Paper Scissors - Machine Learning Style using Tensor Flow](https://www.youtube.com/watch?v=mtRDNDqjUzM)
