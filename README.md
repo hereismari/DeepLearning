@@ -58,7 +58,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
 [Google Dev - Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
 
-### GO DEEP - learn more about deep learning in 1/2 months
+### GO DEEP - learn more about deep learning in 1 or 2 months
 
 [How do I learn deep learning in 2 months](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months)  
 [Learn deep learning, from novice to advanced](https://www.commonlounge.com/discussion/81f5bbcfea4e44b9b2bd081d1ea536ac/main)  
