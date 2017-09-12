@@ -11,4 +11,4 @@
 
 ## Generator Loss
 
-![](imgs/D_loss.png)
+![](imgs/G_loss.png)
