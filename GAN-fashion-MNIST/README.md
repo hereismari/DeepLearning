@@ -21,9 +21,9 @@ I've also implemented other features as:
 The goal here is to have a good enought generator that trains
 fast and teaches GAN basic concepts.
 
-Here is a code for a [DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
-by @carpedm20, this will take a lot more time to train, but will generate
-better results.
+Looking for better generated samples? Here is a code for a
+[DCGAN](https://github.com/carpedm20/DCGAN-tensorflow) by @carpedm20.
+It will take a lot more time to train, but it will generate better results.
 
 [Want to learn more about GANs ?](https://github.com/mari-linhares/DeepLearning#gans)
 
@@ -79,7 +79,7 @@ optional arguments:
 tensorboard --logdir=tensorboad_log
 
 # a more general command is
-tensorboard --logdir=<--log_path>
+tensorboard --logdir=<the value of --log_path>
 ```
 
 ## Training example
