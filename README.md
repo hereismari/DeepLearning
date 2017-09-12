@@ -35,11 +35,10 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 
 [Introduction to GANs (Keras)](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)  
 [GANs for beginners (TensorFlow)](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)  
-[Blog about different kinds of GANs](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)  
-
-#### Code
-
+[Blog post about the different kinds of GANs](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)  
 [DCGAN implementation on TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow)  
+[Original Paper](https://arxiv.org/abs/1406.2661)
+[Generative models implementation (TensorFlow, Pytorch)](https://github.com/wiseodd/generative-models/)
 
 ### Blogs
 

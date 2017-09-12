@@ -31,7 +31,7 @@ parser.add_argument('--output_path', default='out/', type=str,
 parser.add_argument('--input_path', default='mnist/', type=str,
                     help='Input path for the fashion mnist.'
                          'If not available data will be downloaded.')
-                 
+
 parser.add_argument('--log_path', default='tensorboard_log/', type=str,
                     help='Log path for tensorboard.')
 
@@ -45,7 +45,7 @@ parser.add_argument('--z_dim', default=100, type=int,
 
 parser.add_argument('--batch_size', default=16, type=int,
                     help='Batch size used for training.')
-                    
+
 parser.add_argument('--train_steps', default=100000, type=int,
                     help='Number of steps used for training.')
 
@@ -56,13 +56,12 @@ FLAGS = parser.parse_args()
 # MNIST related constants
 # images have shape of 28x28 in gray scale
 MNIST_HEIGHT = 28
-MNIST_WIDTH = 28  
+MNIST_WIDTH = 28
 MNIST_DIM = 1  # gray scale
 
 # to keep things simple we'll deal with the images as a
 # flat tensor of MNIST_FLAT shape
 MNIST_FLAT_DIM = MNIST_HEIGHT * MNIST_WIDTH * MNIST_DIM
-
 
 # here is a nice blog post about xavier init in case you're not familiar with it
 # https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/
@@ -170,10 +169,10 @@ summ_G_loss = tf.summary.scalar("G_loss", G_loss)
 
 # -------------- Load the dataset ------------------------
 
-# download (fashion) mnist if needed
+# download mnist if needed
 utils.maybe_download(FLAGS.input_path, FLAGS.mnist)
 
-# import the Fashion MNIST dataset
+# import mnist dataset
 data = input_data.read_data_sets(FLAGS.input_path, one_hot=True)
 
 # -------------- Train models ------------------------
@@ -186,7 +185,7 @@ sess.run(tf.global_variables_initializer())
 summary_writer = tf.summary.FileWriter(FLAGS.log_path, graph=tf.get_default_graph())
 
 for i in range(FLAGS.train_steps):
-    
+
   # eventually plot images that are being generated
   if i % 1000 == 0:
     samples = sess.run(G_sample, feed_dict={Z: sample_Z()})
@@ -199,7 +198,7 @@ for i in range(FLAGS.train_steps):
   _, D_loss_curr, summ = sess.run([D_solver, D_loss, summ_D_losses],
                                   feed_dict={X: X_batch, Z: sample_Z()})
   summary_writer.add_summary(summ, i)
-  
+
   # train generator
   _, G_loss_curr, summ = sess.run([G_solver, G_loss, summ_G_loss], feed_dict={Z: sample_Z()})
   summary_writer.add_summary(summ, i)
