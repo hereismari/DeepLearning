@@ -18,7 +18,7 @@ I've also implemented other features as:
   automatically;
 * Added comments and refactored code to make it simpler.
 
-The goal here is to have a good enought generator that trains
+The goal here is to have a good enough generator that trains
 fast and teaches GAN basic concepts.
 
 Looking for better generated samples? Here is a code for a
