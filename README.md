@@ -8,10 +8,12 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * Links to my personal projects while learning Deep Learning and Tensorflow
 * Links for online resources about Deep Learning and TensorFlow
 
-## Personal Projects
+## Personal Projects using TensorFlow
 
 [Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)  
-[MNIST running on Android using TensorFlow](https://github.com/mari-linhares/mnist-android-tensorflow)
+[MNIST running on Android](https://github.com/mari-linhares/mnist-android-tensorflow)  
+[Exploring Spiral Dataset](exploring-spiral-dataset/)  
+[Vanilla GANs for fashion MNIST](GANs-fashion-MNIST/)
 
 ## Links
 
