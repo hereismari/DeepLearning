@@ -13,7 +13,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)  
 [MNIST running on Android](https://github.com/mari-linhares/mnist-android-tensorflow)  
 [Exploring Spiral Dataset](exploring-spiral-dataset/)  
-[Vanilla GANs for fashion MNIST](GANs-fashion-MNIST/)
+[Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
 
 ## Links
 
