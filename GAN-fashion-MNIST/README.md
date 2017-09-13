@@ -30,6 +30,13 @@ It will take a lot more time to train, but it will generate better results.
 
 ## How to run?
 
+### Install
+
+* [TensorFlow](https://www.tensorflow.org/install/)
+* [Matplotlib](https://matplotlib.org/)
+
+### Run
+
 Run fashion MNIST:
 
 ```bash
