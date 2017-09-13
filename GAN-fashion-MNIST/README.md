@@ -1,6 +1,12 @@
 # Vanilla GAN for Fashion MNIST or classic MNIST
 
+GANs are a very hot topic in the Deep Learning world! The goal of this implementation is to
+have a simple and fun demo, of a simple GAN that you can train in a few minutes but still
+getting some cool results!
+
 ![](imgs/vanilla_gan_detailed_arch.png)
+
+[Want to learn more about GANs ?](https://github.com/mari-linhares/DeepLearning#gans)
 
 The code is basically the same available [here](https://github.com/wiseodd/generative-models/blob/master/GAN/vanilla_gan/gan_tensorflow.py)
 by  @wiseodd, that has a great repo with a lot of GAN implementations
@@ -18,14 +24,9 @@ I've also implemented other features as:
   automatically;
 * Added comments and refactored code to make it simpler.
 
-The goal here is to have a good enough generator that trains
-fast and teaches GAN basic concepts.
-
 Looking for better generated samples? Here is a code for a
 [DCGAN](https://github.com/carpedm20/DCGAN-tensorflow) by @carpedm20.
 It will take a lot more time to train, but it will generate better results.
-
-[Want to learn more about GANs ?](https://github.com/mari-linhares/DeepLearning#gans)
 
 ## How to run?
 
