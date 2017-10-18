@@ -14,6 +14,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [MNIST running on Android](https://github.com/mari-linhares/mnist-android-tensorflow)  
 [Exploring Spiral Dataset](exploring-spiral-dataset/)  
 [Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
+[Easy 21 - Getting started with RL](https://github.com/mari-linhares/easy21)
 
 ## Links
 
@@ -24,7 +25,6 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8&t=2163s)
 [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
-[Easy 21 - Getting started with RL]()
 
 ### CNNs - Convolutional Neural Networks
 
