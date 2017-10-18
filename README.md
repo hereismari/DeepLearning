@@ -24,6 +24,8 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8&t=2163s)
 [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
+[Easy 21 - Getting started with RL]()
+
 ### CNNs - Convolutional Neural Networks
 
 [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
