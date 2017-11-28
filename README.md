@@ -3,7 +3,7 @@
 This repository keeps track of my awesome adventure trying
 to know a little more about deep learning (mainly with TensorFlow :smile:).
 
-## What do we have here?
+## What can you find here?
 
 * Links to my personal projects while learning Deep Learning and Tensorflow
 * Links for online resources to get started with Deep Learning and TensorFlow
@@ -16,7 +16,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 [Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
 [Easy 21 - Getting started with RL](https://github.com/mari-linhares/easy21)
 
-## Links
+## Get Started with Deep Learning and TensorFlow
 
 ### DL and ML 101: blog posts and videos to get started
 
