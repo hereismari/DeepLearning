@@ -53,6 +53,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 
 * [Colah's Blog](http://colah.github.io/)  
 * [Open AI](https://blog.openai.com/)
+* [Fast AI](http://www.fast.ai/)
 
 ### University Courses
 
