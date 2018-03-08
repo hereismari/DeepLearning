@@ -16,6 +16,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
 * [Easy 21 - Getting started with Reinforcement Learning](https://github.com/mari-linhares/easy21)
 * [TensorFlow Brasil - A repository for TensorFlow code samples and tutorials in Portuguese](https://github.com/mari-linhares/tensorflow-brasil)
+* [Teachable games - Using DeepLearnJS to play games just using a camera](https://github.com/mari-linhares/teachable-machine-games)
 
 ## Get Started with Deep Learning and TensorFlow
 
