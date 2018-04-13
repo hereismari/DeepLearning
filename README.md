@@ -72,6 +72,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)  
 * [Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
 * [Google Dev - Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 
 ### GO DEEP - learn more about deep learning in 1 or 2 months
 
