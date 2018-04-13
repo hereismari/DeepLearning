@@ -27,6 +27,10 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8&t=2163s)
 * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
+### Math for Deep Learning and Machine Learning
+
+[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+[3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### CNNs - Convolutional Neural Networks
 * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
