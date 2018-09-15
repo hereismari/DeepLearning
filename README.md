@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning: bit.ly/awesome-dl
 
 This repository keeps track of my awesome adventure trying
 to know a little more about deep learning (mainly with TensorFlow :smile:).
@@ -17,8 +17,11 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Easy 21 - Getting started with Reinforcement Learning](https://github.com/mari-linhares/easy21)
 * [TensorFlow Brasil - A repository for TensorFlow code samples and tutorials in Portuguese](https://github.com/mari-linhares/tensorflow-brasil)
 * [Teachable games - Using DeepLearnJS to play games just using a camera](https://github.com/mari-linhares/teachable-machine-games)
+* [Modified version of text generation tutorial including fun examples](https://github.com/mari-linhares/tf-eager-text-generation)
 
 ## Get Started with Deep Learning and TensorFlow
+
+Go to: bit.ly/awesome-dl
 
 ### DL and ML 101: blog posts and videos to get started
 
