@@ -1,4 +1,4 @@
-# DeepLearning: bit.ly/awesome-dl
+# DeepLearning: [bit.ly/awesome-dl](bit.ly/awesome-dl)
 
 This repository keeps track of my awesome adventure trying
 to know a little more about deep learning (mainly with TensorFlow :smile:).
@@ -21,7 +21,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 
 ## Get Started with Deep Learning and TensorFlow
 
-Go to: bit.ly/awesome-dl
+Go to [bit.ly/awesome-dl](bit.ly/awesome-dl)
 
 ### DL and ML 101: blog posts and videos to get started
 
