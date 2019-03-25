@@ -1,14 +1,13 @@
 # DeepLearning: [bit.ly/awesome-dl](https://bit.ly/awesome-dl)
 
-This repository keeps track of my awesome adventure trying
-to know a little more about deep learning (mainly with TensorFlow :smile:).
+This repository keeps track of my path towards understanding Deep Learning concepts (mainly with TensorFlow).
 
 ## What can you find here?
 
 * Links to my personal projects while learning Deep Learning and Tensorflow
 * Links for online resources to get started with Deep Learning and TensorFlow
 
-## Personal Projects using TensorFlow
+## Personal Projects
 
 * [Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)  
 * [MNIST running on Android](https://github.com/mari-linhares/mnist-android-tensorflow)  
